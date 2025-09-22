@@ -55,3 +55,11 @@ After setting the variable, you can run the deployment with the Sepolia network:
 ```shell
 npx hardhat ignition deploy --network sepolia ignition/modules/Counter.ts
 ```
+
+
+### TODO
+
+1. Create hardhat task
+2. Use Hardhat console
+3. Hardhat Gas Reporter
+4. Solidity Coverage
